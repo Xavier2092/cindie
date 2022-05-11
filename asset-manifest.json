@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cindie/static/css/main.28054b9f.css",
+    "main.js": "/cindie/static/js/main.fa1b74cc.js",
+    "static/js/787.6dafb671.chunk.js": "/cindie/static/js/787.6dafb671.chunk.js",
+    "static/media/video.mp4": "/cindie/static/media/video.456d798cf4477babdb58.mp4",
+    "static/media/1GLOTe.png": "/cindie/static/media/1GLOTe.344a20a62e10d5080b94.png",
+    "index.html": "/cindie/index.html",
+    "main.28054b9f.css.map": "/cindie/static/css/main.28054b9f.css.map",
+    "main.fa1b74cc.js.map": "/cindie/static/js/main.fa1b74cc.js.map",
+    "787.6dafb671.chunk.js.map": "/cindie/static/js/787.6dafb671.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28054b9f.css",
+    "static/js/main.fa1b74cc.js"
+  ]
+}
