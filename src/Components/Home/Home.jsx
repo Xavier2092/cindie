@@ -152,46 +152,6 @@ export default function Home() {
             <div>
                 <Footer />
             </div>
-            {/* <div>
-                        <a href="#" class="scroll-top" title="Ir arriba">
-                            <i class="fa fa-angle-up"><b>^</b></i>
-                        </a>
-                    </div> */}
-
-            {/* </div> */}
-
-
-            {/* <div className="pelis">
-                {
-                    allMovies ? allMovies?.map(data => {
-                        let nombresGen = [];
-
-                        let generos = data.Genres
-                        generos.forEach(a => {
-                            nombresGen.push(a.name)
-                        })
-
-                        return (
-                            <div key={data.id}>
-                                <Link key={data.id} to={"/detail/" + data.id}>
-                                <Card title={data.title}
-                                poster={data.poster}
-                                year={data.year}
-                                country={data.Country.name}
-                                Genres={"Géneros: " + nombresGen?.join(", ")}
-                                rating={"Rating: " + data.rating}
-                                duration={"Duración: " + data.duration}
-                                key={data.id} />
-                                </Link>
-                            </div> 
-                        )
-                    }) :
-                    <img src="https://m.media-amazon.com/images/M/MV5BMDBjMmNkMDMtN2ZiYS00MDJiLTk5YWUtOTdhZjFmMjdmM2NhXkEyXkFqcGdeQXVyMjY4MzQzNDk@._V1_FMjpg_UX1000_.jpg" alt="not found" />
-                }
-                </div>
-                <div>
-                    <Footer/>
-                </div> */}
         </>
     )
 }
