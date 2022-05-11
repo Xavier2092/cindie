@@ -2,7 +2,7 @@
   "name": "indiec",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xavier2092.github.io/cindie",
+  "homepage": "http://xavier2092.github.io/cindie",
   "dependencies": {
     "@auth0/auth0-react": "^1.10.1",
     "@emotion/react": "^11.9.0",
